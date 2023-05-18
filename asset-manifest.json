@@ -1,15 +1,15 @@
 {
-  "main.css": "/whoami-release/static/css/main.543fe6d5.chunk.css",
-  "main.js": "/whoami-release/static/js/main.c618c841.chunk.js",
-  "main.js.map": "/whoami-release/static/js/main.c618c841.chunk.js.map",
+  "main.css": "/whoami-release/static/css/main.93672eb9.chunk.css",
+  "main.js": "/whoami-release/static/js/main.a45fb425.chunk.js",
+  "main.js.map": "/whoami-release/static/js/main.a45fb425.chunk.js.map",
   "static/js/1.3e49b517.chunk.js": "/whoami-release/static/js/1.3e49b517.chunk.js",
   "static/js/1.3e49b517.chunk.js.map": "/whoami-release/static/js/1.3e49b517.chunk.js.map",
   "static/js/2.bc37842e.chunk.js": "/whoami-release/static/js/2.bc37842e.chunk.js",
   "static/js/2.bc37842e.chunk.js.map": "/whoami-release/static/js/2.bc37842e.chunk.js.map",
   "runtime~main.js": "/whoami-release/static/js/runtime~main.d84b7520.js",
   "runtime~main.js.map": "/whoami-release/static/js/runtime~main.d84b7520.js.map",
-  "static/css/main.543fe6d5.chunk.css.map": "/whoami-release/static/css/main.543fe6d5.chunk.css.map",
+  "static/css/main.93672eb9.chunk.css.map": "/whoami-release/static/css/main.93672eb9.chunk.css.map",
   "index.html": "/whoami-release/index.html",
-  "precache-manifest.afd652b5e3326c1a4c52d22715e09f69.js": "/whoami-release/precache-manifest.afd652b5e3326c1a4c52d22715e09f69.js",
+  "precache-manifest.ea7077435eebda68bd128613433d5a5d.js": "/whoami-release/precache-manifest.ea7077435eebda68bd128613433d5a5d.js",
   "service-worker.js": "/whoami-release/service-worker.js"
 }
