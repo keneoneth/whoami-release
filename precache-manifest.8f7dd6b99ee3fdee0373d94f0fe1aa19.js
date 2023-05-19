@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "72a952c2eddf86d97752",
+    "revision": "d4348e1e175b82c2cf1f",
     "url": "/whoami-release/static/css/main.93672eb9.chunk.css"
   },
   {
-    "revision": "72a952c2eddf86d97752",
-    "url": "/whoami-release/static/js/main.72a952c2.chunk.js"
+    "revision": "d4348e1e175b82c2cf1f",
+    "url": "/whoami-release/static/js/main.d4348e1e.chunk.js"
   },
   {
     "revision": "3e49b5171f86bdb3ad5a",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/whoami-release/static/js/runtime~main.d84b7520.js"
   },
   {
-    "revision": "888e037298049b72f614541a98ef530b",
+    "revision": "22f5fcf82388b0038ebb60f165940879",
     "url": "/whoami-release/index.html"
   }
 ];
