@@ -1,6 +1,6 @@
 # whoami-release
 A web game named 'Who am I?' to guess the correct sports player based on the hints that are popping up!  
-The hints are collected automatically based on web crawling & NLP neural network  
+The hints are collected automatically based on web crawling & NLP neural network, with backend developed using NodeJS and MongoDB  
 
 link to site:  https://keneoneth.github.io/whoami-release/  
 
