@@ -1,5 +1,6 @@
 # whoami-release
-A whoami web game to guess the correct sports player based on the hints that are popping up!
+A web game named 'Who am I?' to guess the correct sports player based on the hints that are popping up!  
+The hints are collected automatically based on web crawling & NLP neural network  
 
 link to site:  https://keneoneth.github.io/whoami-release/  
 
