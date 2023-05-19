@@ -4,7 +4,7 @@ The hints are collected automatically based on web crawling & NLP neural network
 
 link to site:  https://keneoneth.github.io/whoami-release/  
 
-For further info., please refer to https://github.com/keneoneth/whoami-release/wiki![image](https://github.com/keneoneth/whoami-release/assets/42671855/9436867e-daf9-4e66-baa4-7665d6f551c1)
+For further info., please refer to https://github.com/keneoneth/whoami-release/wiki
 
 20/5/2023 update  
 **The game version v0.1.0 is released**  
