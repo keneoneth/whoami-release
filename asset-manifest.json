@@ -1,7 +1,7 @@
 {
   "main.css": "/whoami-release/static/css/main.93672eb9.chunk.css",
-  "main.js": "/whoami-release/static/js/main.89aa0b80.chunk.js",
-  "main.js.map": "/whoami-release/static/js/main.89aa0b80.chunk.js.map",
+  "main.js": "/whoami-release/static/js/main.358187f9.chunk.js",
+  "main.js.map": "/whoami-release/static/js/main.358187f9.chunk.js.map",
   "static/js/1.3e49b517.chunk.js": "/whoami-release/static/js/1.3e49b517.chunk.js",
   "static/js/1.3e49b517.chunk.js.map": "/whoami-release/static/js/1.3e49b517.chunk.js.map",
   "static/js/2.bc37842e.chunk.js": "/whoami-release/static/js/2.bc37842e.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/whoami-release/static/js/runtime~main.d84b7520.js.map",
   "static/css/main.93672eb9.chunk.css.map": "/whoami-release/static/css/main.93672eb9.chunk.css.map",
   "index.html": "/whoami-release/index.html",
-  "precache-manifest.bfae20bad08816787e35c278de9fd11a.js": "/whoami-release/precache-manifest.bfae20bad08816787e35c278de9fd11a.js",
+  "precache-manifest.c8ee8041d7f73420b9f1b4ea6ff9961c.js": "/whoami-release/precache-manifest.c8ee8041d7f73420b9f1b4ea6ff9961c.js",
   "service-worker.js": "/whoami-release/service-worker.js"
 }
